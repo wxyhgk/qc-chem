@@ -1,0 +1,9 @@
+%chk=HF.chk
+# Opt(maxcycle=100) Freq B3LYP/6-31(d,p) em=GD3BJ
+
+Calculated HF Energy
+
+0 1
+ F                 -4.57293039    0.01971091    0.00000000
+ H                 -5.45293039    0.01971091    0.00000000
+
